@@ -4,6 +4,58 @@
 <div class=""service-item__shop-start"">
 <p class=""label-sp"">出発<br/>店舗</p>
 <p>
+          トヨタレンタリース愛知 ささしまライブ東口店          <small>（愛知県 名古屋市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年10月18日 ～ 10月20日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラツーリング　車両番号2702</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年10月18日 ～ 10月20日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            総合予約室          </div>
+<div class=""service-item__reserve-tel"">
+            0120-001-319          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""3"" data-start-area=""4"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
           トヨタレンタリース静岡 新富士駅前店          <small>（静岡県 富士市）</small>
 </p>
 </div>
@@ -16,7 +68,7 @@
 </div>
 <div class=""service-item__date"">
 <p class=""label-sp"">出発期間</p>
-<p>2025年6月6日 ～ 6月9日</p>
+<p>2025年10月18日 ～ 10月20日</p>
 </div>
 <div class=""service-item__group-btn is-init"">
 <span class=""btn-open"">さらに詳細をみる</span>
@@ -26,15 +78,15 @@
 <div class=""service-item__info"">
 <div class=""service-item__info__car-type"">
 <p class=""label-sp"">車種</p>
-<p>ヤリス　車両番号8566</p>
+<p>カローラツーリング　車両番号0848</p>
 </div>
 <div class=""wrapper"">
 <div class=""service-item__info__condition"">
 <p class=""label-sp"">車両条件</p>
-<p>禁煙・5人乗・ノーマルタイヤ</p>
+<p>禁煙・５人乗</p>
 </div>
 <div class=""service-item__info__date"">
-<p></p>2025年6月6日 ～ 6月9日<p></p>
+<p></p>2025年10月18日 ～ 10月20日<p></p>
 </div>
 </div>
 </div>
@@ -45,6 +97,162 @@
             新富士駅前店          </div>
 <div class=""service-item__reserve-tel"">
             0545-63-0100          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""3"" data-start-area=""4"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタレンタリース愛知 ささしまライブ東口店          <small>（愛知県 名古屋市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年10月18日 ～ 10月20日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラツーリングHV　車両番号0752</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年10月18日 ～ 10月20日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            総合予約室          </div>
+<div class=""service-item__reserve-tel"">
+            0120-001-319          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""3"" data-start-area=""4"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタレンタリース愛知 ささしまライブ東口店          <small>（愛知県 名古屋市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年10月18日 ～ 10月21日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラツーリング　車両番号9774</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年10月18日 ～ 10月21日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            総合予約室          </div>
+<div class=""service-item__reserve-tel"">
+            0120-001-319          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""3"" data-start-area=""4"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタレンタリース静岡 富士山静岡空港店          <small>（静岡県 牧之原市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年10月18日 ～ 10月21日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラツーリング　車両番号0898</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年10月18日 ～ 10月21日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            富士山静岡空港店          </div>
+<div class=""service-item__reserve-tel"">
+            0120-921695          </div>
 </div>
 </div>
 </div>
