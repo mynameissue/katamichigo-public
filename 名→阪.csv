@@ -4,19 +4,19 @@
 <div class=""service-item__shop-start"">
 <p class=""label-sp"">出発<br/>店舗</p>
 <p>
-          トヨタレンタリース愛知 中部国際空港店          <small>（愛知県 常滑市）</small>
+          トヨタレンタリース愛知 豊橋新幹線口店          <small>（愛知県 名古屋市）</small>
 </p>
 </div>
 <div class=""service-item__shop-return"">
 <p class=""label-sp"">返却<br/>店舗</p>
 <p>
-          トヨタレンタリース京都 返却可能店舗          <small>（下記参照）</small>
+          トヨタレンタリース大阪 返却可能店舗          <small>（下記参照）</small>
 </p>
 </div>
 </div>
 <div class=""service-item__date"">
 <p class=""label-sp"">出発期間</p>
-<p>2025年6月8日 ～ 6月10日</p>
+<p>2026年3月1日 ～ 3月3日</p>
 </div>
 <div class=""service-item__group-btn is-init"">
 <span class=""btn-open"">さらに詳細をみる</span>
@@ -26,15 +26,67 @@
 <div class=""service-item__info"">
 <div class=""service-item__info__car-type"">
 <p class=""label-sp"">車種</p>
-<p>シエンタHEV　車両番号5215</p>
+<p>ハイエースバン　車両番号　3762</p>
 </div>
 <div class=""wrapper"">
 <div class=""service-item__info__condition"">
 <p class=""label-sp"">車両条件</p>
-<p>禁煙　7人乗り　</p>
+<p>禁煙・3/6/9人乗り</p>
 </div>
 <div class=""service-item__info__date"">
-<p></p>2025年6月8日 ～ 6月10日<p></p>
+<p></p>2026年3月1日 ～ 3月3日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            総合予約室          </div>
+<div class=""service-item__reserve-tel"">
+            0120-001-319          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""5"" data-start-area=""4"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタレンタリース愛知 中部国際空港店          <small>（愛知県 常滑市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタレンタリース大阪 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2026年3月1日 ～ 3月3日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>アルファードHEV　車両番号 3721</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・8人乗り・ジュニアシート 2</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2026年3月1日 ～ 3月3日<p></p>
 </div>
 </div>
 </div>
