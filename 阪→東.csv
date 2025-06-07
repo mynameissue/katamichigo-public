@@ -1,0 +1,104 @@
+"<li class=""service-item"" data-return-area=""3"" data-start-area=""5"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタレンタリース新大阪 りんくうタウン駅前店          <small>（大阪府 泉佐野市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年10月25日 ～ 10月27日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>ヤリスHEV　車両番号6394</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年10月25日 ～ 10月27日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            りんくうタウン駅前店          </div>
+<div class=""service-item__reserve-tel"">
+            072-463-0100          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""3"" data-start-area=""5"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタレンタリース京都 京都駅新幹線口店          <small>（京都府 京都市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年10月25日 ～ 10月27日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラツーリング　車両番号1792</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年10月25日 ～ 10月27日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            京都駅新幹線口店          </div>
+<div class=""service-item__reserve-tel"">
+            075-682-0800          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
