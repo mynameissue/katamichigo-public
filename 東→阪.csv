@@ -1,0 +1,104 @@
+"<li class=""service-item"" data-return-area=""5"" data-start-area=""3"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 錦糸町店          <small>（東京都 墨田区）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタレンタリース京都 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年12月11日 ～ 12月14日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>ノア　車輛番号　1502</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙　8人乗り</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年12月11日 ～ 12月14日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            錦糸町店          </div>
+<div class=""service-item__reserve-tel"">
+            03-3635-0100          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""5"" data-start-area=""3"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 羽田空港（国際線）店          <small>（東京都 大田区）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタレンタリース新大阪 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2025年12月13日 ～ 12月17日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラアクシオ　車両番号4587</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙・５人乗り・ノーマルタイヤ</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2025年12月13日 ～ 12月17日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            羽田空港（国際線）店          </div>
+<div class=""service-item__reserve-tel"">
+            03-5737-8100          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
