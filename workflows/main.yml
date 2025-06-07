@@ -1,0 +1,60 @@
+name: 片道GO定期チェック
+
+on:
+  schedule:
+    - cron: '*/5 22-23 * * *'   # JST 07:00-08:59
+    - cron: '*/5 0-13 * * *' # JST 09:00-21:59
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # ← これで GITHUB_TOKEN を有効に
+          fetch-depth: 0              # ← 履歴も必要なら 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+
+      - name: Install Python deps
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python script.py
+        env:
+          TOKYO_TO_NAGOYA : ${{ secrets.TOKYO_TO_NAGOYA }}
+          TOKYO_TO_OSAKA :  ${{ secrets.TOKYO_TO_OSAKA}}
+          NAGOYA_TO_OSAKA :  ${{ secrets.NAGOYA_TO_OSAKA}}
+          NAGOYA_TO_TOKYO :  ${{ secrets.NAGOYA_TO_TOKYO}}
+          OSAKA_TO_TOKYO :  ${{ secrets.OSAKA_TO_TOKYO}}
+          OSAKA_TO_NAGOYA :  ${{ secrets.OSAKA_TO_NAGOYA}}
+
+      # ──────────── ここからコミット＆デバッグ ────────────
+
+      - name: CSV を最新で上書きする
+        run: |
+          # まずコミッター情報を設定
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 変更した CSV をマークして、ひとつ前のコミットを書き換え
+          git add *.csv
+          git commit --amend --no-edit
+
+          # GitHub に強制プッシュ
+          git push --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
