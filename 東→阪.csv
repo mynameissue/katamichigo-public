@@ -1,0 +1,104 @@
+"<li class=""service-item"" data-return-area=""5"" data-start-area=""3"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタモビリティサービス 中野坂上店          <small>（東京都 中野区）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタレンタリース京都 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2026年1月2日 ～ 1月4日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>カローラツーリングHV　車両番号　963</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙　５人乗り　ノーマルタイヤ</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2026年1月2日 ～ 1月4日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            中野坂上店          </div>
+<div class=""service-item__reserve-tel"">
+            03-3379-7100          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
+"<li class=""service-item"" data-return-area=""5"" data-start-area=""3"">
+<div class=""service-item__body"">
+<div class=""service-item__shop"">
+<div class=""service-item__shop-start"">
+<p class=""label-sp"">出発<br/>店舗</p>
+<p>
+          トヨタS＆Dレンタシェア西東京 立川駅南口店          <small>（東京都 立川市）</small>
+</p>
+</div>
+<div class=""service-item__shop-return"">
+<p class=""label-sp"">返却<br/>店舗</p>
+<p>
+          トヨタレンタリース大阪 返却可能店舗          <small>（下記参照）</small>
+</p>
+</div>
+</div>
+<div class=""service-item__date"">
+<p class=""label-sp"">出発期間</p>
+<p>2026年1月3日 ～ 1月6日</p>
+</div>
+<div class=""service-item__group-btn is-init"">
+<span class=""btn-open"">さらに詳細をみる</span>
+<span class=""btn-close"">詳細を閉じる</span>
+</div>
+<div class=""service-item__group is-init"">
+<div class=""service-item__info"">
+<div class=""service-item__info__car-type"">
+<p class=""label-sp"">車種</p>
+<p>ヤリス</p>
+</div>
+<div class=""wrapper"">
+<div class=""service-item__info__condition"">
+<p class=""label-sp"">車両条件</p>
+<p>禁煙5人乗り　車両番号8916</p>
+</div>
+<div class=""service-item__info__date"">
+<p></p>2026年1月3日 ～ 1月6日<p></p>
+</div>
+</div>
+</div>
+<div class=""service-item__reserve"">
+<p class=""label-sp"">予約電話番号</p>
+<div class=""wrapper"">
+<div class=""service-item__reserve-shop"">
+            立川駅南口店          </div>
+<div class=""service-item__reserve-tel"">
+            042-523-0100          </div>
+</div>
+</div>
+</div>
+</div>
+</li>"
